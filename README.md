@@ -17,6 +17,7 @@
 3. [Statistics Cheat Sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 4. [Linear Algebra Course - Khan Academy](https://www.khanacademy.org/math/linear-algebra/)
 5. [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - I love this set of videos about Linear Algebra
+6. [Gradient Descent Explained](https://www.youtube.com/watch?v=umAeJ7LMCfU) This is an explanation of the Gradient Descent Algorithm
 
 ## Communities
 
