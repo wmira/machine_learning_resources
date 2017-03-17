@@ -3,7 +3,7 @@
 ## Introduction
 
 1. [Introduction to Machine Learning - 5 Parts](https://medium.com/springboard/the-data-science-process-the-complete-laymans-guide-to-what-a-data-scientist-actually-does-ca3e166b7c67)
-2. [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
+2. [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt) - Contains a very simplified introduction in video form with iris dataset - multi part video
 
 ## Courses
 
