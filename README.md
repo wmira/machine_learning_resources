@@ -18,6 +18,7 @@
 4. [Linear Algebra Course - Khan Academy](https://www.khanacademy.org/math/linear-algebra/)
 5. [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - I love this set of videos about Linear Algebra
 6. [Gradient Descent Explained](https://www.youtube.com/watch?v=umAeJ7LMCfU) This is an explanation of the Gradient Descent Algorithm
+7. [Linear Regression In Pictures](http://adit.io/posts/2016-02-20-Linear-Regression-in-Pictures.html)
 
 ## Communities
 
